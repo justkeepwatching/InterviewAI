@@ -140,7 +140,7 @@ InterviewAI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sakshisidhe13/InterviewAI.git
+git clone https://github.com/justkeepwatching/InterviewAI.git
 cd InterviewAI
 ```
 
@@ -244,4 +244,4 @@ npm run dev
 This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
-GitHub: https://github.com/sakshisidhe13
+GitHub: https://github.com/justkeepwatching
